@@ -7,30 +7,30 @@
 
 - Dashboard Link: https://lookerstudio.google.com/reporting/3a127b9c-19ed-4587-a941-5185b5248bfe
 
-## Metrics and Dimensions
+### Metrics and Dimensions
 - Analysis Methods: Data visualization, trend analysis, and strategic forecasting.
 - Metrics: Employee turnover, workforce diversity, job satisfaction, and compensation trends.
 
-## Summary of Insights
+### Summary of Insights
 
-## Employee Turnover:
+### Employee Turnover:
 
 - Departmental Analysis: Identified departments with higher turnover rates, particularly in sales, prompting targeted retention strategies.
 - Trend Identification: Monitored turnover trends over time to predict and mitigate potential issues.
 
-## Workforce Diversity:
+### Workforce Diversity:
 - Gender Distribution: Assessed gender diversity across different job levels, revealing a strong representation of women in senior roles.
 - Diversity Initiatives: Highlighted the impact of diversity programs on employee retention and engagement.
 
-## Job Satisfaction:
+### Job Satisfaction:
 - Training Impact: Analyzed the correlation between training participation and job satisfaction, demonstrating the positive effects of professional development.
 - Satisfaction Metrics: Evaluated job satisfaction scores across departments to identify areas for improvement.
 
-## Compensation Trends:
+### Compensation Trends:
 - Competitive Analysis: Compared internal compensation structures with industry standards to ensure competitiveness.
 - Equity Assessments: Monitored compensation equity across job levels to promote fairness and transparency.
 
-## Recommendations & Next Steps
+### Recommendations & Next Steps
 Targeted Retention Strategies: Develop focused initiatives to reduce turnover in high-risk departments.
 Enhanced Diversity Programs: Continue to expand and support diversity, equity, and inclusion efforts.
 Professional Development: Invest in training programs to boost job satisfaction and employee engagement.
