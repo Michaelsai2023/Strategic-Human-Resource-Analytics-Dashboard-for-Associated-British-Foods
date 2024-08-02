@@ -5,7 +5,7 @@
 
 <img width="1413" alt="Screen Shot 2024-08-03 at 00 23 56" src="https://github.com/user-attachments/assets/136bf8f9-f1ff-4f69-841e-46f59450b90d">
 
-- https://lookerstudio.google.com/reporting/3a127b9c-19ed-4587-a941-5185b5248bfe
+- Dashboard Link: https://lookerstudio.google.com/reporting/3a127b9c-19ed-4587-a941-5185b5248bfe
 
 ## Metrics and Dimensions
 - Analysis Methods: Data visualization, trend analysis, and strategic forecasting.
